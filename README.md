@@ -56,7 +56,13 @@
 
 免费额度与注册说明：Linuxdo账号或EDU.CN邮箱账号登录即领100美元余额，每日签到25美元 限制CODEX/CLAUDECODE 平台调用
 
+### S3AI API
 
+链接： [S3AI API](https://ai.furry.vg/sign-up?aff=j5ol)
+
+高级模型（这些全部免费）: gpt-5.6-terra/luna MiniMax-M2.7-free xiaomi/mimo-v2.5 gpt-image-2 nano-banana/pro/2 
+
+免费额度与注册说明： 免费模型需要账户有0.01元以上即可随意使用，注册自动送0.01 账户 群内经常抽奖/发兑换码
 
 ### 七牛云
 
