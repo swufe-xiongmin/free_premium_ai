@@ -226,3 +226,11 @@
 模型: GLM5.2
 
 免费额度与注册说明：每日3000万Token，用完隔日刷新；每天签到送100积分，当每日Token额度用完时可以使用积分继续调用模型,注册需要手机号,仅限平台内使用 无api
+
+### TaBiAI
+
+链接：[TaBiAI](https://tabitoken.com/sign-up?aff=JM90)
+
+模型：claude-opus-4-8 claude-opus-5
+
+免费额度与注册说明：注册送100，还能签到
