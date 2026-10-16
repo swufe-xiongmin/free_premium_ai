@@ -379,6 +379,20 @@
       "status_bool": true,
       "poster_githubname": "zsystemx",
       "updatetime": "2026-08-13"
+    },
+    {
+      "id": 29,
+      "title": "openCSG",
+      "url": "https://opencsg.com/signup?invitationCode=E2SMRLEG4J",
+      "note": "注册即送99元，需要+86 手机号",
+      "description": "注册即送99元，需要+86 手机号",
+      "free_premium_model": [
+        "glm5.3",
+        "deepseek-v4.1-flash"
+      ],
+      "status_bool": true,
+      "poster_githubname": "",
+      "updatetime": "2026-10-16"
     }
   ]
 }

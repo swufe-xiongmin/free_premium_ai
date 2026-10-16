@@ -272,4 +272,12 @@
 
 投稿人： [zsystemx](https://github.com/zsystemx)
 
+### openCSG
+
+链接： [openCSG](https://opencsg.com/signup?invitationCode=E2SMRLEG4J)
+
+高级模型: glm5.3 deepseek-v4.1-flash
+
+免费额度与注册说明： 注册即送99元，需要+86 手机号
+
 <!-- platforms:end -->
