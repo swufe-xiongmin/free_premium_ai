@@ -5,20 +5,7 @@
   "site_description": "收录能免费使用、能力较强的 AI 平台。请保持合理预期：免费、稳定、高性能是不可兼得的「不可能三角」。如信息失效，欢迎投稿反馈。",
   "repo_url": "https://github.com/swufe-xiongmin/free_premium_ai",
   "platforms": [
-    {
-      "id": 1,
-      "title": "Hypercharm",
-      "url": "https://hyper.charm.land/",
-      "note": "每月赠送 5 美元，推荐 Gmail 登录",
-      "description": "每月赠送5美元，推荐gmail登录，其他邮箱容易被认为恶意用户封禁账号",
-      "free_premium_model": [
-        "glm-5.2",
-        "kimi-k3"
-      ],
-      "status_bool": true,
-      "poster_githubname": "",
-      "updatetime": "2026-08-11"
-    },
+    
     {
       "id": 2,
       "title": "AgentRouter",
@@ -274,19 +261,6 @@
       "status_bool": true,
       "poster_githubname": "",
       "updatetime": "2026-05-20"
-    },
-    {
-      "id": 21,
-      "title": "Sophnet",
-      "url": "https://www.sophnet.com/?code=TFWAWE",
-      "note": "注册送 100 元信用额度，每日签到送 0.1M Token",
-      "description": "注册送100元信用额度，每日签到送 0.1M Token。注册需要手机号，注册后进入SophClaw，左下角用户中心可以签到，与Claw对话要求输出当前Model配置文件得到APIKEY与URL，可在外网使用（注册开通龙虾送20元，其中10元用于龙虾扣费，另外10元可用于API 存疑）",
-      "free_premium_model": [
-        "glm-5.2"
-      ],
-      "status_bool": true,
-      "poster_githubname": "Auunes",
-      "updatetime": "2026-05-15"
     },
     {
       "id": 22,
