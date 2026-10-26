@@ -46,14 +46,6 @@
 
 <!-- platforms:start -->
 
-### Hypercharm
-
-链接： [Hypercharm](https://hyper.charm.land/)
-
-高级模型: glm-5.2 kimi-k3
-
-免费额度与注册说明： 每月赠送5美元，推荐gmail登录，其他邮箱容易被认为恶意用户封禁账号
-
 ### AgentRouter
 
 链接： [AgentRouter](https://agentrouter.org/register?aff=P9gT)
@@ -199,16 +191,6 @@
 高级模型: glm-5.2 deepseekv4pro
 
 免费额度与注册说明： 80rpm，需要绑定手机号
-
-### Sophnet
-
-链接： [Sophnet](https://www.sophnet.com/?code=TFWAWE)
-
-高级模型: glm-5.2
-
-免费额度与注册说明： 注册送100元信用额度，每日签到送 0.1M Token。注册需要手机号，注册后进入SophClaw，左下角用户中心可以签到，与Claw对话要求输出当前Model配置文件得到APIKEY与URL，可在外网使用（注册开通龙虾送20元，其中10元用于龙虾扣费，另外10元可用于API 存疑）
-
-投稿人： [Auunes](https://github.com/Auunes)
 
 ### zaiwen
 
