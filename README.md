@@ -10,7 +10,7 @@
 ## 📌 收录标准  Inclusion Criteria
 
 ##  前段时间账号被GitHub误封，现在已解封，请大家收藏 [free_premium_ai](https://free-premium-ai.pages.dev) ，已恢复更新 ，现在模型变化很大，很多FLASH模型效果也非常好，收录标准也会更新
- 1. 模型要求：可免费使用 [LiveBench](https://livebench.ai/) 中任一 Global Average 高于 **70分** 的模型(由于此榜单更新不及时，寻找替代品中，暂时要求模型能力高于GLM5.2 )，GPT/Claude/Gemini模型能力，无API的通过[提示词检测](https://linux.do/t/topic/1854373) 。有API的通过 [hvoy检测器](https://hvoy.ai/) 检测，受系统提示词和一些功能被限制（例如工具调用）导致智商降低的不影响收录，会注明这些缺陷，但不收录假模型，例如用GLM5伪装Claude模型，开源模型暂无有效测试方法，欢迎投稿提供方法。
+ 1. 模型要求：可免费使用 [LiveBench](https://livebench.ai/) 中任一 Global Average 高于 **70分** 的模型(由于此榜单更新不及时，寻找替代品中，暂时要求模型能力高于GLM5.2 )，GPT/Claude/Gemini模型能力，无API的通过[提示词检测](https://linux.do/t/topic/1854373) 。有API的通过 [hvoy检测器](https://hvoy.ai/) 或 [Folkbench 实时检测](https://folkbench.com/evaluations/api-quality?utm_source=github&utm_medium=awesome&utm_campaign=free_premium_ai) 检测，受系统提示词和一些功能被限制（例如工具调用）导致智商降低的不影响收录，会注明这些缺陷，但不收录假模型，例如用GLM5伪装Claude模型，开源模型暂无有效测试方法，欢迎投稿提供方法。
 
  2. 免费额度要求：满足以下任一情况： A.注册给予较大额度，注册可以要求较严格，例如实名认证，手机号绑定等，注册要求严格收录时会在**免费额度与注册说明**中注明 B.每日签到给予免费额度/每周签到给予免费额度/长期有免费高级模型，注册可以要求较严格，例如AihubMix C. 注册给予较小额度，注册要求不严格，可意会不可言传。
 
